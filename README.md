@@ -7,4 +7,6 @@ Una serie de ejercicios en forma de apartados que trabajan los principios básic
 # Línea Horizontal:
 ---
 # Imagen:
-!(https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg)
+![Título](https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg)
+# Autor:
+Sergio Ros Gilson
